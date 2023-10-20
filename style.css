@@ -702,7 +702,6 @@ header ul li a:hover {
 }
 .resources .rightResources {
     width: 63%;
-    /* border: 1px solid black; */
 }
 
 .resources .rightResources .slider-container {
@@ -1564,7 +1563,6 @@ button:focus {
 
     .resources .rightResources {
         width: 63%;
-        /* border: 1px solid black; */
     }
 
     .resources .rightResources .slider-container {
@@ -3929,7 +3927,6 @@ button:focus {
         margin-top: 10px;
     }
     .social .leftSocial {
-        border: 1px solid black;
         margin-top: -90px;
         padding: 0;
         width: 100%;
